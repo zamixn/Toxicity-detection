@@ -1,0 +1,11 @@
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.csprojAssemblyReference.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.AssemblyInfo.cs
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.deps.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.runtimeconfig.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.runtimeconfig.dev.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.dll
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.pdb
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.dll
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\SentimentAnalysisConsoleApp.pdb
