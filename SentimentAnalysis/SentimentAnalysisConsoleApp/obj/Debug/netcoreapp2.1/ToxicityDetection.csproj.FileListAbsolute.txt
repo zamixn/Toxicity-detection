@@ -1,0 +1,11 @@
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\ToxicityDetection.deps.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\ToxicityDetection.runtimeconfig.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\ToxicityDetection.runtimeconfig.dev.json
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\ToxicityDetection.dll
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\bin\Debug\netcoreapp2.1\ToxicityDetection.pdb
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.csprojAssemblyReference.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.csproj.CoreCompileInputs.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.AssemblyInfoInputs.cache
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.AssemblyInfo.cs
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.dll
+C:\Users\Zamix\Desktop\Emotion prediction\emotion prediction\SentimentAnalysis\SentimentAnalysisConsoleApp\obj\Debug\netcoreapp2.1\ToxicityDetection.pdb

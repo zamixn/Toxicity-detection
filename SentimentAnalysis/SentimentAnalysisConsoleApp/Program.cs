@@ -1,8 +1,6 @@
 ﻿using System;
-using System.IO;
 using Microsoft.ML;
 using Microsoft.ML.Data;
-using static Microsoft.ML.DataOperationsCatalog;
 
 namespace SentimentAnalysisConsoleApp
 {

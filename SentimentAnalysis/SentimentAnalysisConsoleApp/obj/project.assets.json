@@ -3979,9 +3979,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zamix\\Desktop\\Emotion prediction\\emotion prediction\\SentimentAnalysis\\SentimentAnalysisConsoleApp\\SentimentAnalysisConsoleApp.csproj",
-      "projectName": "SentimentAnalysisConsoleApp",
-      "projectPath": "C:\\Users\\Zamix\\Desktop\\Emotion prediction\\emotion prediction\\SentimentAnalysis\\SentimentAnalysisConsoleApp\\SentimentAnalysisConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Zamix\\Desktop\\Emotion prediction\\emotion prediction\\SentimentAnalysis\\SentimentAnalysisConsoleApp\\ToxicityDetection.csproj",
+      "projectName": "ToxicityDetection",
+      "projectPath": "C:\\Users\\Zamix\\Desktop\\Emotion prediction\\emotion prediction\\SentimentAnalysis\\SentimentAnalysisConsoleApp\\ToxicityDetection.csproj",
       "packagesPath": "C:\\Users\\Zamix\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zamix\\Desktop\\Emotion prediction\\emotion prediction\\SentimentAnalysis\\SentimentAnalysisConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
